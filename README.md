@@ -4,7 +4,7 @@ neovim copy - clipboard paste
 It's a python script that copyes lines from neovim buffer and pastes it to the clipboard.
 
 ### Typical usage scenario:
-  Paste lines to some interactive console like python REPL, gatttool, SQL cli. Text editor is better for performing 
+  Paste lines to some interactive console like python REPL, gatttool, SQL cli. Text editor like vim is better for prepering lines using regex, macros and manual editing.
 
 ### Dependencies
 * neovim
