@@ -10,6 +10,7 @@ It's a python script that copyes lines from neovim buffer and pastes it to the c
 * neovim
 * python3
 * xdotool
+* xsel
 
 Look at <https://github.com/neovim/python-client> for more information on how to setup python with nvim.
 
